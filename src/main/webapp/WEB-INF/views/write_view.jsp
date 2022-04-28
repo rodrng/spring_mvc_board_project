@@ -20,12 +20,12 @@
 		</tr>
 		<tr>
 			<td>글내용</td>
-			<td><textarea name="bcontent" rows="10"></textarea></td>
+			<td><textarea name="bcontent" rows="10" cols="50"></textarea></td>
 		</tr>
 		<tr>
 		</tr>
 			<td><input type="submit" value="글입력"></td>
-			<td><a href="list">글 목록보기</a></td>	
+			<td><a href="list">글 목록보기</a></td>
 		</form>
 	</table>
 </body>
